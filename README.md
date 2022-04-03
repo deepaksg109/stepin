@@ -1,1 +1,1 @@
-# stepin
+Miniproject for LTTS stepin

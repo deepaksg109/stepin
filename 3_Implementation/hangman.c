@@ -1,11 +1,11 @@
 /**
  * @file hangman.c
- * @author Akash Ranjan (https://github.com/vatsaakash/)
+ * @author Deepaksg (https://github.com/deepaksg109/)
  * @brief 
  * @version 0.1
- * @date 2021-04-13
+ * @date 2022-03-25
  * 
- * @copyright Copyright (c) 2021
+ * @copyright Copyright (c) 2022
  * 
  */
 

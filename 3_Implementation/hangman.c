@@ -1,6 +1,6 @@
 /**
  * @file hangman.c
- * @author Deepaksg (https://github.com/deepaksg109/)
+ * @author deepaksg (https://github.com/deepaksg109/)
  * @brief 
  * @version 0.1
  * @date 2022-03-25

@@ -1,1 +1,1 @@
-Miniproject for LTTS stepin
+Miniproject C programing
